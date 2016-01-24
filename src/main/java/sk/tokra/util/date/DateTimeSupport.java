@@ -43,4 +43,3 @@ public class DateTimeSupport {
 	  return date.format(cal.getTime());
   }
 }
-
