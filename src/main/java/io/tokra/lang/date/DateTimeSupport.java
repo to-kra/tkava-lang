@@ -1,4 +1,4 @@
-package sk.tokra.util.date;
+package io.tokra.lang.date;
 
 import java.util.Calendar;
 import java.text.SimpleDateFormat;
